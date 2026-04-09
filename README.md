@@ -5,7 +5,7 @@ Helping AI founders build trust first identities and develop simple, high perfor
 ---
 
 ### 🚀 Current Projects
-- **[BrainDump AI](https://braindump-ai-ebon.vercel.app/)** — Voice-first notes app. Speak → AI instantly transcribes and auto-sorts into Tasks, Ideas & Reminders. Zero API cost, fully private.
+- **[BrainDump AI](https://braindump-ai-ebon.vercel.app/)** — Voice first notes app. Speak → AI instantly transcribes and auto sorts into Tasks, Ideas & Reminders. Zero API cost, fully private.
 
 ### 🛠️ Tech & Focus
 - Browser native AI tools
