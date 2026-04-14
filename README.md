@@ -17,6 +17,6 @@ Helping AI founders build trust first identities and develop simple, high perfor
 ### 📫 Direct Inquiry
 - Email: m.ibrahimhossainn1@gmail.com
 - X: [@_IbrahimHossain](https://x.com/_IbrahimHossain)
-- Portfolio: [md-ibrahim-ai-rg8qwx7.gamma.site](https://md-ibrahim-ai-rg8qwx7.gamma.site/)
+- Portfolio: [https://ai-architect-70.preview.emergentagent.com/](https://ai-architect-70.preview.emergentagent.com/)
 
 *Building the next layer of AI trust one identity and one tool at a time.*
